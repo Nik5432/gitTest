@@ -9,6 +9,25 @@ public class Main {
         System.out.println("7");
         System.out.println("8");
         System.out.println("9");
+
+
+        int a = 19;
+        int b = 245;
+
+        if (a > b) {
+            System.out.println(a);
+        } else {
+            System.out.println(b);
+        }
+
+        System.out.println(a + b);
+
+        System.out.println(a * b);
+
+        System.out.println(a / b);
+
+        System.out.println(a - b);
+
     }
 
 }
