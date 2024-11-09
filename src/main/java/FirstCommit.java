@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class FirstCommit {
     public static void firstCommitMethod(){
-
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter your name: ");
@@ -20,8 +19,7 @@ public class FirstCommit {
         sc.close();
 
         secondCommitMethod();
-
-        System.out.println("First commit");
+        System.out.println("First commit with changes");
     }
 
     private static void secondCommitMethod(){
