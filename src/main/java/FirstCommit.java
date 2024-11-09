@@ -35,6 +35,7 @@ public class FirstCommit {
 
         secondCommitMethod();
         System.out.println("First commit with changes");
+        System.out.println("First commit with changes new");
     }
 
     /**

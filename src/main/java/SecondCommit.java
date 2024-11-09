@@ -1,7 +1,4 @@
-import javax.swing.*;
-
 public class SecondCommit {
-    JPanel jPanel = new JPanel();
 
     public static void secondCommitMethod(){
 
@@ -44,6 +41,7 @@ public class SecondCommit {
          *
          *
          */
+        System.out.println("Second commit with changes new");
     }
 
 }
