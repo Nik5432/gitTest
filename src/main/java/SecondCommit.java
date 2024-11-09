@@ -1,7 +1,4 @@
-import javax.swing.*;
-
 public class SecondCommit {
-    JPanel jPanel = new JPanel();
 
     public static void secondCommitMethod(){
         System.out.println("Калькулятор 2.0");
@@ -19,6 +16,18 @@ public class SecondCommit {
         System.out.println(a % b);
 
         System.out.println("Second commit with changes");
+        /**
+         *
+         * Some dev1 changes
+         *
+         *
+         *
+         *
+         *
+         *
+         *
+         */
+        System.out.println("Second commit with changes new");
     }
 
 }
