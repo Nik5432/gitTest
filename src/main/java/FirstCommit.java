@@ -20,6 +20,17 @@ public class FirstCommit {
 
 
         Scanner sc = new Scanner(System.in);
+        /**
+         *
+         * Some dev2 changes
+         *
+         *
+         *
+         *
+         *
+         *
+         *
+         */
 
         System.out.println("Enter your name: ");
         String name = sc.nextLine();
@@ -51,6 +62,17 @@ public class FirstCommit {
      */
     private static void secondCommitMethod(){
         System.out.println("Second commit");
+        /**
+         *
+         * Some dev2 changes
+         *
+         *
+         *
+         *
+         *
+         *
+         *
+         */
     }
 
 }
