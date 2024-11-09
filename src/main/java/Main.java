@@ -1,3 +1,4 @@
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("1");
@@ -11,6 +12,19 @@ public class Main {
         System.out.println("9");
 
 
+        /**
+         *
+         * Some dev1 changes
+         *
+         *
+         *
+         *
+         *
+         *
+         *
+         */
+
+
         int a = 19;
         int b = 245;
 
@@ -18,16 +32,32 @@ public class Main {
             System.out.println(a);
         } else {
             System.out.println(b);
+            int[][] matrix = new int[10][10];
+            for (int i = 0; i < 11; i++) {
+                matrix[i][i] = i;
+            }
+
+            System.out.println(a + b);
+
+            System.out.println(a * b);
+
+            System.out.println(a / b);
+
+            System.out.println(a - b);
+
+            /**
+             *
+             * Some dev1 changes
+             *
+             *
+             *
+             *
+             *
+             *
+             *
+             */
+
+            System.out.println(matrix);
         }
-
-        System.out.println(a + b);
-
-        System.out.println(a * b);
-
-        System.out.println(a / b);
-
-        System.out.println(a - b);
-
     }
-
 }
